@@ -1,5 +1,22 @@
 # Bob Ross project
 
+### Blog entry #3: 6/16/2020
+
+Louis unfortunately needed to leave back to Hong Kong, so we needed to restructure our project a little bit.
+
+We've decided on focusing on the terrain, water, and clouds. We're also adding first person controls to move around
+the environment.
+
+All the components are working separately, and we're just finishing up by merging them together.
+
+Here's what the new (fully volumetric) clouds look like
+
+![clouds](images/clouds.png)
+
+Here's the merge progress with reflections, clouds, and a skybox.
+![merging](images/mergingProgress.png)
+
+
 ### Blog entry #2: 3/10/2020
 
 Our plan overall hasn't changed, so we'll just give a progress update.
